@@ -1,24 +1,36 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "../components/Header";
-import { CartProvider } from "../context/CartContext";
-
-const inter = Inter({ subsets: ["latin"] });
+import Header from "@/components/Header";
+import Navbar from "@/components/Navbar";
+import Sidebar from "@/components/Sidebar";
+import VoxioChatbot from "@/components/VoxioChatbot";
 
 export const metadata = {
-  title: "Amazon Clone",
-  description: "Next.js E-commerce",
+  title: "My Next.js App",
+  description: "Integrated with Voxio Agents Chatbot",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      {/* suppressHydrationWarning fixes the console red error */}
-      <body className={inter.className} suppressHydrationWarning={true}>
-        <CartProvider>
-          <Header />
-          <div className="min-h-screen">{children}</div>
-        </CartProvider>
+      <body className="antialiased">
+        {/* Global Navigation Components */}
+        <Header />
+        <Navbar />
+        
+        <div className="flex">
+          {/* Optional Sidebar - placed inside a flex container if needed */}
+          <Sidebar />
+          
+          <main className="flex-grow">
+            {children}
+          </main>
+        </div>
+
+        {/* 
+            Voxio Chatbot Component 
+            This is a client component that initializes the SDK 
+        */}
+        <VoxioChatbot />
       </body>
     </html>
   );
