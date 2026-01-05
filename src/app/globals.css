@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset default Next.js dark mode */
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 255, 255, 255;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  background-color: #e3e6e6; /* Amazon Light Gray */
+  color: #0f1111; /* Amazon Dark Text */
+  font-family: Arial, sans-serif;
+}
+
+/* Amazon Button Styles */
+.btn-primary {
+  background-color: #ffd814;
+  border-color: #fcd200;
+  color: #0f1111;
+}
+.btn-primary:hover {
+  background-color: #f7ca00;
+}
