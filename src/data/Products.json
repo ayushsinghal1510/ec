@@ -56,7 +56,7 @@
     "price": 999,
     "rating": 5,
     "reviews": 210,
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca4?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&auto=format&fit=crop&q=60",
     "description": "Don't take it lightly. Supercharged by M2. Up to 18 hours of battery life. Big, beautiful Liquid Retina display."
   },
   {
@@ -66,7 +66,7 @@
     "price": 49,
     "rating": 4,
     "reviews": 15000,
-    "image": "https://images.unsplash.com/photo-1543512214-318c77a0e2bf?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1544428571-aaf850ce481e?w=500&auto=format&fit=crop&q=60",
     "description": "Our best sounding Echo Dot yet – Enjoy an improved audio experience compared to any previous Echo Dot."
   },
   {
@@ -86,7 +86,7 @@
     "price": 449,
     "rating": 5,
     "reviews": 880,
-    "image": "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1547091267-6b2be403a763?w=500&auto=format&fit=crop&q=60",
     "description": "Choose from over 20 different colors of the KitchenAid Artisan Series Tilt-Head Stand Mixer."
   },
   {
@@ -106,7 +106,7 @@
     "price": 45,
     "rating": 5,
     "reviews": 320,
-    "image": "https://images.unsplash.com/photo-1602143407151-011141920038?w=500&auto=format&fit=crop&q=60",
+    "image": "https://plus.unsplash.com/premium_photo-1664527307281-faf42c09ac8f?w=500&auto=format&fit=crop&q=60",
     "description": "TempShield insulation eliminates condensation and keeps beverages cold up to 24 hours and hot up to 12 hours."
   },
   {
@@ -156,7 +156,7 @@
     "price": 35,
     "rating": 5,
     "reviews": 2300,
-    "image": "https://images.unsplash.com/photo-1594970923293-277e909a80b1?w=500&auto=format&fit=crop&q=60",
+    "image": "https://plus.unsplash.com/premium_photo-1751107031853-5a43206b8bd7?w=500&auto=format&fit=crop&q=60",
     "description": "The YETI Rambler 20 oz. is made from durable stainless steel with double-wall vacuum insulation."
   },
   {
@@ -171,33 +171,23 @@
   },
   {
     "id": 18,
-    "name": "Samsung 49-Inch Odyssey G9 Gaming Monitor",
+    "name": "Apple Monitor",
     "category": "Computers",
     "price": 1200,
     "rating": 5,
     "reviews": 400,
     "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=60",
-    "description": "The 1000R curve matches the curvature of the human eye for maximum immersion and minimal eye strain."
-  },
-  {
-    "id": 19,
-    "name": "Dyson V15 Detect Cordless Vacuum",
-    "category": "Home & Kitchen",
-    "price": 749,
-    "rating": 5,
-    "reviews": 340,
-    "image": "https://images.unsplash.com/photo-1558317374-a3594743e527?w=500&auto=format&fit=crop&q=60",
-    "description": "Dyson's most powerful, intelligent cordless vacuum. Laser reveals microscopic dust."
+    "description": "Apple Monitor"
   },
   {
     "id": 20,
-    "name": "Kindle Paperwhite (16 GB)",
+    "name": "Huwawie Laptop",
     "category": "Electronics",
     "price": 149,
     "rating": 5,
     "reviews": 11000,
     "image": "https://images.unsplash.com/photo-1592434134753-a70baf7979d5?w=500&auto=format&fit=crop&q=60",
-    "description": "Now with a 6.8” display and thinner borders, adjustable warm light, up to 10 weeks of battery life, and 20% faster page turns."
+    "description": "Huwawie Laptop."
   },
   {
     "id": 21,
@@ -216,7 +206,7 @@
     "price": 129,
     "rating": 4,
     "reviews": 210,
-    "image": "https://images.unsplash.com/photo-1592432678010-c5914c892743?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1582106316415-d02d4d0e9066?w=500&auto=format&fit=crop&q=60",
     "description": "Ultra-dense cushioning provides superior support, stability and joint protection."
   },
   {
@@ -276,7 +266,7 @@
     "price": 99,
     "rating": 5,
     "reviews": 25000,
-    "image": "https://images.unsplash.com/photo-1569420638706-538676d1a938?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1693038603562-bb6191269ecc?w=500&auto=format&fit=crop&q=60",
     "description": "Easy to use, easy to clean, fast, versatile, and convenient."
   },
   {
@@ -310,23 +300,13 @@
     "description": "The name that started it all returns to reassert its dominance."
   },
   {
-    "id": 32,
-    "name": "Vitamix 5200 Blender",
-    "category": "Home & Kitchen",
-    "price": 429,
-    "rating": 5,
-    "reviews": 900,
-    "image": "https://images.unsplash.com/photo-1570222094114-28a9d88a27e6?w=500&auto=format&fit=crop&q=60",
-    "description": "The size and shape of the self-cleaning 64-ounce container is ideal for blending medium to large batches."
-  },
-  {
     "id": 33,
     "name": "Sony PlayStation DualSense Controller",
     "category": "Gaming",
     "price": 69,
     "rating": 5,
     "reviews": 3200,
-    "image": "https://images.unsplash.com/photo-1592840496011-39c2c2f74dc6?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1649875951914-61057a5df533?w=500&auto=format&fit=crop&q=60",
     "description": "Discover a deeper, highly immersive gaming experience that brings the action to life."
   },
   {
@@ -386,7 +366,7 @@
     "price": 220,
     "rating": 4,
     "reviews": 2200,
-    "image": "https://images.unsplash.com/photo-1572569028738-411a197b83f2?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=500&auto=format&fit=crop&q=60",
     "description": "High-performance wireless noise cancelling headphones in matte black."
   },
   {
@@ -426,7 +406,7 @@
     "price": 99,
     "rating": 4,
     "reviews": 6700,
-    "image": "https://images.unsplash.com/photo-1558002038-1091a5756131?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1697382608786-bcf4c113b86e?w=500&auto=format&fit=crop&q=60",
     "description": "1080p HD video, improved motion detection, and easy installation."
   },
   {
@@ -446,7 +426,7 @@
     "price": 799,
     "rating": 5,
     "reviews": 150,
-    "image": "https://images.unsplash.com/photo-1551817958-c1b3119ee338?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1678982982281-2faf188d1629?w=500&auto=format&fit=crop&q=60",
     "description": "Long-running solar powered multisport GPS watch with scratch-resistant Power Sapphire lens."
   },
   {
@@ -476,7 +456,7 @@
     "price": 62,
     "rating": 4,
     "reviews": 8900,
-    "image": "https://images.unsplash.com/photo-1531492399549-9807c93240d9?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1624895608078-e9f564cbe3fa?w=500&auto=format&fit=crop&q=60",
     "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive."
   },
   {
@@ -486,7 +466,7 @@
     "price": 49,
     "rating": 4,
     "reviews": 12000,
-    "image": "https://images.unsplash.com/photo-1559676169-7c46f68c347f?w=500&auto=format&fit=crop&q=60",
+    "image": "https://images.unsplash.com/photo-1575325345210-a65324e66537?w=500&auto=format&fit=crop&q=60",
     "description": "Clinically proven superior 3D Cleaning Action oscillates, rotates and pulsates to break up and remove plaque."
   },
   {
